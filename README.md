@@ -43,8 +43,7 @@ This repository showcases the UI and user experience of the app.
 ## 🛠 Tech Stack
 
 - React Native  
-- JavaScript / TypeScript  
-- Expo (if used)
+- JavaScript
 
 ---
 
